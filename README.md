@@ -25,7 +25,7 @@ java -cp out Main
 ```
 
 The above command runs the application and generates a text file ```output.txt```. 
-The output file contains the transaction IDs of the eligible transaction based on
+The output file contains the transaction IDs of the eligible transactions based on
 exercise.
 
 Confirm the output file is generated in the main directory.
